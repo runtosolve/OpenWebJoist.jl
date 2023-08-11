@@ -1,0 +1,4 @@
+name = "OpenWebJoist"
+uuid = "36f5f34a-a095-404c-8cd8-b5ee5340364b"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
